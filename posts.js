@@ -1,5 +1,5 @@
 const publicaciones = [
-  {
+{
     id: "01pn",
     titulo: "Productos Notables",
     archivo: "entradas/productos_notables.js",
@@ -19,5 +19,12 @@ const publicaciones = [
     archivo: "entradas/factorizacion2.js",
     fecha: "2026-10-22",
     resumen: "suma y diferencia de cubos, trinomios."
+  },
+{
+    id: "04fact",
+    titulo: "Ecuaciones de Primer Grado",
+    archivo: "entradas/Ecuacionesn de primer grado.js",
+    fecha: "2026-10-29",
+    resumen: "Ecuaciones de primer grado."
   },
 ];
