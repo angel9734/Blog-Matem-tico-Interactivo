@@ -4,7 +4,7 @@ const contenidoEntrada = `
     <p>En la entrada anterior vimos factor común, trinomio cuadrado perfecto y diferencia de cuadrados. Aquí agrego cuatro casos más: la suma y la diferencia de cubos, los trinomios de la forma x<sup>2</sup> + bx + c y los trinomios de la forma ax<sup>2</sup> + bx + c, que resolvemos con el método del aspa simple.</p>
 
     <h3>1. Suma y diferencia de cubos</h3>
-    <p><strong>Cómo reconocerlo:</strong> son exactamente dos términos, unidos por suma o por resta, y los dos son cubos perfectos (como 8, 27, 64, 125 o x<sup>3</sup>). Ojo: si es una resta de cuadrados, ese es otro caso.</p>
+    <p><strong>Cómo reconocerlo:</strong> son exactamente dos términos, unidos por suma o por resta, y los dos son cubos perfectos (como 8, 27, 64, 125 o x<sup>3</sup>). Si es una resta de cuadrados, ese es otro caso.</p>
     <p><strong>Fórmulas:</strong></p>
     <ul>
         <li>a<sup>3</sup> + b<sup>3</sup> = (a + b)(a<sup>2</sup> − ab + b<sup>2</sup>)</li>

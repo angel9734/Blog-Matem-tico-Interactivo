@@ -23,7 +23,7 @@ const publicaciones = [
 {
     id: "04fact",
     titulo: "Ecuaciones de Primer Grado",
-    archivo: "entradas/Ecuacionesn de primer grado.js",
+    archivo: "entradas/Ecuacion de primer grado.js",
     fecha: "2026-10-29",
     resumen: "Ecuaciones de primer grado."
   },
